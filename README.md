@@ -85,7 +85,7 @@ This project helped in understanding:
 
 # References
 
-1. Low-Jitter PLL Clock Generator Research Paper
+1. https://github.com/Eshaanjana-exp/low-jitter-pll-340-612mhz/blob/main/phasedetector_pll.pdf
 2. PLL Design Fundamentals
 3. LTspice IV Documentation
 4. Analog and Mixed-Signal Design References
