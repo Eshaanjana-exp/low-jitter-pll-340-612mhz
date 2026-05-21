@@ -12,4 +12,4 @@ The following signals were analyzed:
 | VCO    | Oscillator Output      |
 
 ---
-<img width="1920" height="1080" alt="Screenshot 2026-05-21 185541" src="https://github.com/user-attachments/assets/52e454f0-df8c-4291-aa29-bcf61cc5d5a0" />
+<img width="1595" height="725" alt="image" src="https://github.com/user-attachments/assets/661cbecb-67a4-4064-a8bc-f39e776fca71" />
